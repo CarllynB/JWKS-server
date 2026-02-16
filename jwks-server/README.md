@@ -33,7 +33,3 @@ curl -s -X POST "http://localhost:8080/auth?expired=true"
 go test ./... -cover
 ```
 
-## Notes for screenshots
-- Screenshot the provided test client running successfully against your server
-- Screenshot your test coverage output
-- Make sure your identifying info is visible in the terminal window
